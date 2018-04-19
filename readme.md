@@ -1,35 +1,35 @@
 # markdown Tutorials
 
-markdown¿¡ ´ëÇÑ ±âº»ÀûÀÎ °øºÎ¿ë ±êÀÔ´Ï´Ù.
+markdownì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ê³µë¶€ìš© ê¹ƒìž…ë‹ˆë‹¤.
 
-markdownÀÇ ´Ù¾çÇÑ Ç¥Çö¹ýÀ» ÀÍÇôº¾´Ï´Ù.
+markdownì˜ ë‹¤ì–‘í•œ í‘œí˜„ë²•ì„ ìµí˜€ë´…ë‹ˆë‹¤.
 
 ## readme.md
 
-github¿¡¼­ readme.md ÆÄÀÏÀÌ ÇöÀç º¸°í °è½Ã´Â ±ÛÀÔ´Ï´Ù.
+githubì—ì„œ readme.md íŒŒì¼ì´ í˜„ìž¬ ë³´ê³  ê³„ì‹œëŠ” ê¸€ìž…ë‹ˆë‹¤.
 
-mdÆÄÀÏÀº [markdown](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)ÀÇ ¾àÀÚ·Î ÀÔ´Ï´Ù.
+mdíŒŒì¼ì€ [markdown](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)ì˜ ì•½ìžë¡œ ìž…ë‹ˆë‹¤.
 
-## ÀÌ ±ê¿¡¼­ ´Ù·ç´Â ³»¿ë.
+## ì´ ê¹ƒì—ì„œ ë‹¤ë£¨ëŠ” ë‚´ìš©.
 
-1. ¸¶Å©´Ù¿îÀ¸·Î ±êÀ» ¼³¸íÇÒ ¼ö ÀÖµµ·Ï ´Ù¾çÇÑ Ç¥Çö¹ýÀ» ÀÍÇôº¾´Ï´Ù.
+1. ë§ˆí¬ë‹¤ìš´ìœ¼ë¡œ ê¹ƒì„ ì„¤ëª…í•  ìˆ˜ ìžˆë„ë¡ ë‹¤ì–‘í•œ í‘œí˜„ë²•ì„ ìµí˜€ë´…ë‹ˆë‹¤.
 
-2. ÁÖ¼®, ¸µÅ©, ±×¸² µîÀ» ¸¸µé¾îº¾´Ï´Ù.
-
-
-
-Á¦ Ãë¹Ì »ï¾Æ ¸¸µç °ÍÀÌ¶ó ¾÷µ«Àº ºÒ±ÔÄ¢ÇÕ´Ï´Ù.
-
-±Ã±ÝÇÏ½Å Á¡ÀÌ ÀÖÀ¸¸é ¸»¾¸ÇØÁÖ¼¼¿ä.
+2. ì£¼ì„, ë§í¬, ê·¸ë¦¼ ë“±ì„ ë§Œë“¤ì–´ë´…ë‹ˆë‹¤.
 
 
 
+ì œ ì·¨ë¯¸ ì‚¼ì•„ ë§Œë“  ê²ƒì´ë¼ ì—…ëŽƒì€ ë¶ˆê·œì¹™í•©ë‹ˆë‹¤.
 
-## °£´ÜÇÑ ¸ñÂ÷
+ê¶ê¸ˆí•˜ì‹  ì ì´ ìžˆìœ¼ë©´ ë§ì”€í•´ì£¼ì„¸ìš”.
 
-### [01 - µ¿¾Æ¸® È¸Ä¢](01%20-%20Why%20TensorFlow)
 
-- ¸¶Å©´Ù¿îÀ¸·Î ±ÛÀ» °­Á¶ÇÏ´Â ¹ý¿¡ ´ëÇØ¼­ ¼³¸íÇÕ´Ï´Ù.
+
+
+## ê°„ë‹¨í•œ ëª©ì°¨
+
+### [01 - ë™ì•„ë¦¬ íšŒì¹™](1.%20ë™ì•„ë¦¬%20íšŒì¹™)
+
+- ë§ˆí¬ë‹¤ìš´ìœ¼ë¡œ ê¸€ì„ ê°•ì¡°í•˜ëŠ” ë²•ì— ëŒ€í•´ì„œ ì„¤ëª…í•©ë‹ˆë‹¤.
 
 
 
